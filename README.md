@@ -1,5 +1,5 @@
 # SAE-Auto-Connect-projects
-These are the projects that i've been working on for SAE AutoConnect within my university
+  These are the projects that i've been working on for SAE AutoConnect within my university
 
 Intro tasks: 
 1- AutoConnectImageProcessing: Turn an image greyscale and rotate it 90 degrees using skimage and matplotlib in Python. 
